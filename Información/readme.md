@@ -11,6 +11,7 @@ La finalidad principal de WSL es permitir a los administradores de sistemas, y a
 ## __Como saber si tego WSL1 ó WSL2__
 
 * Para ver si la distribución de Linux está establecida en WSL 1 o WSL 2, use el comando wsl -l -v . Para cambiar de versión, use el comando: wsl --set-version < distro name> 
+
 ![img](img/Logo_4.jpg)
 
 ### __Enlaces__
