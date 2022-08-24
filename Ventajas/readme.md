@@ -10,16 +10,6 @@ Accede a la consola avanzada Powershell en modo administrador para instalar la f
 
 ## __Arquitectura de WSL2__
 
-![arqui](https://www.wikiversus.com/informatica/windows/como-instalar-wsl-windows-subsystem-for-linux-windows-10/)
+![arqui](https://www.wikiversus.com/informatica/windows/como-instalar-wsl-windows-subsystem-for-linux-windows-10/img/_hu7690e488cc885d20b3ebfbff56e82778_52924_d232a29147324f30e99c537d323c0ab2.jpg)
 
 ## __WSL1 vs WSL2__
-|     <text style = "display:block; text-align: Center">**CARACTERÍSTICA**</text>    |     **WSL 1** |     **WSL 2** |
-|---|:---:|:---:|
-|     Integración entre Windows y Linux |     :white_check_mark:    |     :white_check_mark:    |
-|     Tiempos de arranque rápidos |     :white_check_mark:    |     :white_check_mark:    |
-|     Huella de recurso pequeña en comparación con las máquinas virtuales tradicionales |     :white_check_mark:    |     :white_check_mark:    |
-|     Se ejecuta con las versiones actuales de VMWare y VirtualBox |     :white_check_mark:    |     :white_check_mark:    |
-|     VM administradas |     :x:    |     :white_check_mark:    |
-|     Kernel de Linux completo |     :x:    |     :white_check_mark:    |
-|     Compatibilidad completa con las llamadas del sistema |     :x:    |     :white_check_mark:    |
-|     Rendimiento entre sistemas de archivos del sistema operativo    |     :white_check_mark:    |     :x:    |

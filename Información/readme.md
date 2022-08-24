@@ -5,6 +5,16 @@ La finalidad principal de WSL es permitir a los administradores de sistemas, y a
 
 ![img](img/Logo_3.png)
 
+# __¿Por que utilizar WSL2?__
+
+Las características principales de WSL 2 son un mayor rendimiento (hasta 20 veces mejor que WSL 1 🤯) y un kernel de Linux 100% nativo, y otras características como:
+
+* Llamadas del sistema totalmente compatibles
+* Poco uso de memoria RAM
+* Acceder a los archivos de la distro a través de la Red desde el explorador de Windows
+
+Además debemos considerar tener un ambiente de desarrollo lo más cercano a lo que tendremos a los servidores en producción. Si comparamos porque utilizar contra GitBash la razón es sencilla, tenemos una alta gama de herramientas de desarrollo disponibles en WSL, además de que GitBash está muy limitado a funcionar adecuadamente para que utilicemos Git.
+
 # __Requisitos de WSL2__
 * Los requisitos del sistema para la utilización de WSL2 dependen del procesador que el ordenador tenga instalado: Para sistemas x64 se requiere como mínimo la versión 1903 con build 18362 o superior. Para sistemas ARM64 se requiere como mínimo la versión 2004 con build 19041 o superior.
 
