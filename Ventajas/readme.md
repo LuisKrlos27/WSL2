@@ -8,7 +8,11 @@ Windows es muy estable y competente, además de estar ya consolidado en el merca
 ## __¿Como activar WSL2 en Windows?__
 Accede a la consola avanzada Powershell en modo administrador para instalar la función ejecutando el comando «Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux». Cuando te lo pida reinicia el equipo.
 
-## __WSl1 vs WSL2__
+## __Arquitectura de WSL2__
+
+![arqui](https://www.wikiversus.com/informatica/windows/como-instalar-wsl-windows-subsystem-for-linux-windows-10/)
+
+## __WSL1 vs WSL2__
 |     <text style = "display:block; text-align: Center">**CARACTERÍSTICA**</text>    |     **WSL 1** |     **WSL 2** |
 |---|:---:|:---:|
 |     Integración entre Windows y Linux |     :white_check_mark:    |     :white_check_mark:    |
