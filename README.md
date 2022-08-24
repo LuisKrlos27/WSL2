@@ -13,3 +13,6 @@
 
 [info]:https://github.com/LuisKrlos27/WSL2/tree/main/Informaci%C3%B3n
 
+2. [Ventajas][vent]
+
+[vent]:https://github.com/LuisKrlos27/WSL2/blob/main/Ventajas
