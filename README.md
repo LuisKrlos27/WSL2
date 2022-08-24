@@ -7,8 +7,9 @@
 
 ![logo_udenar](img/Logo_wsl.jpg)
 
-## Mas informacion sobre WSl
+## Mas informacion sobre WSl2
 
-1. [Información]][1]
+1. [Información][info]
 
-[1]:
+[info]:https://github.com/LuisKrlos27/WSL2/tree/main/Informaci%C3%B3n
+
