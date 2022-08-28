@@ -1,6 +1,5 @@
-# WWSL2
-# CAGON
-![maz](img/WhatsApp%20Image%202022-08-27%20at%209.21.44%20PM.jpeg)
+# WSL2
+
 ## Windows Subsystem Linux
 - Es una capa de compatibilidad desarrollada por Microsoft para correr ejecutables de Linux nativamente en Windows 10 y Windows Server 2019. A partir de junio de 2019 está disponible WSL versión 2, el cual incorpora cambios importantes, como el uso de un núcleo Linux real.​
 
