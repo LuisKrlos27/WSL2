@@ -20,3 +20,9 @@
 3. [Instalación][insta]
 
 [insta]:https://github.com/LuisKrlos27/WSL2/blob/main/Instalación
+
+# __Participantes__
+
+* Jose Wastersson Preciado Ulloa
+* Owen Biafara
+* [Luis Carlos Escobar](https://github.com/LuisKrlos27)
