@@ -14,5 +14,13 @@ Esto se hace de la siguiente manera:
 * Pulsar la tecla __Windows__ y escribir __Panel de control__ y __abrir__
 ![Panel](img/Captura%20de%20pantalla%20(544).png)
 
-* Dentro de panel de control en la parte superior derecha hay una opcion llamada __Ver por: *Iconos grandes*__ 
-![icono](img/Captura%20de%20pantalla%20(545_2).png)
+* Dentro de panel de control en la parte superior derecha hay una opcion llamada __Ver por: *Categoria*__ 
+![icono](img/Captura%20de%20pantalla%20(545).png)
+y la cambiaremos a __Iconos grandes__
+![icono2](img/Captura%20de%20pantalla%20(545_2).png)
+posteriormente daremos clic en la opcion que se llama __Programas y Caracteristicas__
+![Icono3](img/Captura%20de%20pantalla%20(545_3).png)
+
+* Luego de entrar a __Programas y Caracteristicas__ apareceran todos nuestros programas instalados en el sistema.
+En la parte superior izquierda daremos clic en la opcion que se llama __Activar o desactivar las caracteristicas de Windows__ 
+![icono4](img/Captura%20de%20pantalla%20(545_4).png)
