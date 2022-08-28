@@ -24,3 +24,8 @@ posteriormente daremos clic en la opcion que se llama __Programas y Caracteristi
 * Luego de entrar a __Programas y Caracteristicas__ apareceran todos nuestros programas instalados en el sistema.
 En la parte superior izquierda daremos clic en la opcion que se llama __Activar o desactivar las caracteristicas de Windows__ 
 ![icono4](img/Captura%20de%20pantalla%20(545_4).png)
+
+* Una vez hayamos abierto la opcion anterior continuamos a seleccionar las funciones ya mencionadas
+![icono5](img/Captura%20de%20pantalla%20(549).png)
+ ya seleccionada cada casilla aplicamos cambios y reiniacmos el equipo
+ ![icono6](img/Captura%20de%20pantalla%20(552).png)
