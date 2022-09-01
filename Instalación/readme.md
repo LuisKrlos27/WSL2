@@ -29,3 +29,5 @@ En la parte superior izquierda daremos clic en la opcion que se llama __Activar 
 ![icono5](img/Captura%20de%20pantalla%20(549).png)
  ya seleccionada cada casilla aplicamos cambios y reiniacmos el equipo
  ![icono6](img/Captura%20de%20pantalla%20(552).png)
+
+ chuipa
