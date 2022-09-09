@@ -38,6 +38,6 @@ En la parte superior izquierda daremos clic en la opcion que se llama __Activar 
 
 El siguiente paso sera descargar el paquete de actualizacion del kernel de linux mediante este link.
 
-...
+´´´
 https://docs.microsoft.com/es-mx/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
-...
+´´´
