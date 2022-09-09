@@ -30,16 +30,4 @@ En la parte superior izquierda daremos clic en la opcion que se llama __Activar 
  ya seleccionada cada casilla aplicamos cambios y reiniacmos el equipo
  ![icono6](img/Captura%20de%20pantalla%20(552).png)
 
-<<<<<<< HEAD
 
- Ya terminado de hacer lo anterior, el siguiente paso sera instalar __Windows terminal__ que se encuentra en la tienda de microsotf 
-
-![icon 7](img/Captura%20de%20pantalla%20(556).png)
-
-asi se mira instalado windows terminal 
-
-![icon8](img/Captura%20de%20pantalla%20(557).png)
-
-=======
- chuipa
->>>>>>> 3c40c9349ae0079ec2ff776ca836fd3a3e0292d6
