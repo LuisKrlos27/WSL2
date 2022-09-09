@@ -30,6 +30,14 @@ En la parte superior izquierda daremos clic en la opcion que se llama __Activar 
  ya seleccionada cada casilla aplicamos cambios y reiniacmos el equipo
  ![icono6](img/Captura%20de%20pantalla%20(552).png)
 
-Una vez hecho esto lo siguiente sera instalar __Windows Terminal__ en la tiendo de microsoft totalmente gratis de la siguiente manera 
+- Una vez hecho esto lo siguiente sera instalar __Windows Terminal__ en la tienda de microsoft totalmente gratis de la siguiente manera 
 ![](img/Captura%20de%20pantalla%20(556).png)
 
+- Asi se miraria Windows terminal instaldo correctamente en su equipo 
+![](img/Captura%20de%20pantalla%20(557).png)
+
+El siguiente paso sera descargar el paquete de actualizacion del kernel de linux mediante este link.
+
+...
+https://docs.microsoft.com/es-mx/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+...
