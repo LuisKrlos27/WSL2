@@ -41,3 +41,5 @@ El siguiente paso sera descargar el paquete de actualizacion del kernel de linux
 ```
 https://docs.microsoft.com/es-mx/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
 ```
+
+![](img/Captura%20de%20pantalla%20(559).png)
